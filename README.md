@@ -23,8 +23,8 @@ The goal of Progress 1 is to set up the public repository, document the project 
 
 | Name | Student ID | GitHub | Progress 1 Task | Main Pull Request |
 | --- | --- | --- | --- | --- |
-| Alamsyah Wahyu Amanah | 263140701111008 | [@Al4msyah] (https://github.com/username1) | Create the public repository, configure `package.json`, `tsconfig.json`, and `.gitignore`, and add the initial `Hello console` program in `src/index.ts`. | [PR link] |
-| Shefira Rahmayuni Khoirunnisa | 263140707111121 | [@username2](https://github.com/username2) | Write `README.md` (proposal, features, task division) and add the initial Project Report draft (Cover Page, 1.1, initial 1.2, and 3.2 plan) to the `docs/` folder. | [PR link] |
+| Alamsyah Wahyu Amanah | 263140701111008 | [@Al4msyah] | Create the public repository, configure `package.json`, `tsconfig.json`, and `.gitignore`, and add the initial `Hello console` program in `src/index.ts`. | [PR link] |
+| Shefira Rahmayuni Khoirunnisa | 263140707111121 | [@username2] | Write `README.md` (proposal, features, task division) and add the initial Project Report draft (Cover Page, 1.1, initial 1.2, and 3.2 plan) to the `docs/` folder. | [PR link] |
 
 ## How to Run
 
