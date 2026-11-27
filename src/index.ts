@@ -1,3 +1,9 @@
+declare const require: (moduleName: string) => any;
+declare const process: {
+    stdin: any;
+    stdout: any;
+};
+
 const readline = require('readline');
 
 // Interface untuk mendefinisikan struktur data transaksi rental PlayStation
